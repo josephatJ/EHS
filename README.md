@@ -19,13 +19,13 @@ Boilerplate codes to fast track developing DHIS2 applications based on Angular f
 Clone repository
 
 ```bash
- git clone https://github.com/hisptz/ngx-seed-app.git
+ git clone https://github.com/dhis2-club-tanzania/dhis2-angular-boilerplate.git
 ```
 
 Navigate to application root folder
 
 ```bash
-cd ngx-seed-app
+cd dhis2-angular-boilerplate
 ```
 
 Install all required dependencies for the app
@@ -47,13 +47,13 @@ This command will require proxy-config.json file available in the root of your s
 ```json
 {
   "/api": {
-    "target": "https://play.dhis2.org/2.29/",
+    "target": "https://play.dhis2.org/2.36/",
     "secure": "false",
     "auth": "admin:district",
     "changeOrigin": "true"
   },
   "/": {
-    "target": "https://play.dhis2.org/2.29/",
+    "target": "https://play.dhis2.org/2.36/",
     "secure": "false",
     "auth": "admin:district",
     "changeOrigin": "true"
