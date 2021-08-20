@@ -1,9 +1,8 @@
 [![Build Status](https://travis-ci.org/hisptz/ngx-seed-app.svg?branch=master)](https://travis-ci.org/hisptz/ngx-seed-app)
-[![dependencies Status](https://david-dm.org/hisptz/ngx-seed-app/status.svg)](https://david-dm.org/hisptz/ngx-seed-app)
-[![devDependencies Status](https://david-dm.org/hisptz/ngx-seed-app/dev-status.svg)](https://david-dm.org/hisptz/ngx-seed-app?type=dev)
-[![Maintainability](https://api.codeclimate.com/v1/badges/dbe97dbdfbd55344c38f/maintainability)](https://codeclimate.com/github/hisptz/ngx-seed-app/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/dbe97dbdfbd55344c38f/test_coverage)](https://codeclimate.com/github/hisptz/ngx-seed-app/test_coverage)
-[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/) [![Greenkeeper badge](https://badges.greenkeeper.io/hisptz/ngx-seed-app.svg)](https://greenkeeper.io/)
+[![dependencies Status](https://status.david-dm.org/gh/dhis2-club-tanzania/dhis2-angular-boilerplate.svg)](https://david-dm.org/dhis2-club-tanzania/dhis2-angular-boilerplate)
+[![devDependencies Status](https://status.david-dm.org/gh/dhis2-club-tanzania/dhis2-angular-boilerplate.svg?type=dev)](https://david-dm.org/dhis2-club-tanzania/dhis2-angular-boilerplate?type=dev)
+[![Maintainability](https://api.codeclimate.com/v1/badges/c1e6408bb367ed969f71/maintainability)](https://codeclimate.com/github/dhis2-club-tanzania/dhis2-angular-boilerplate/maintainability)
+[![Commitizen friendly](https://img.shields.io/badge/commitizen-friendly-brightgreen.svg)](http://commitizen.github.io/cz-cli/)
 
 # Angular DHIS2 based seed app
 
