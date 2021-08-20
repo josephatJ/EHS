@@ -1,7 +1,7 @@
 pull_request_rules:
   - name: automatic merge on CI success
     conditions:
-      - Build-CI / build (pull_request)
+      - check-success=Build-CI / build (pull_request)
     actions:
       merge:
         method: merge
