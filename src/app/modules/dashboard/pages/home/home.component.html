@@ -1,0 +1,22 @@
+<!-- <div *ngIf="{ dashboardItems: dashboards$ | async } as params">
+  <div class="row" *ngIf="params?.dashboardItems?.length > 0">
+    <div class="col-sm-12">
+      <mat-chip-list>
+        <mat-chip
+          *ngFor="let item of params.dashboardItems"
+          (click)="onSetCurrent(item)"
+        >
+          {{ item.displayName }}</mat-chip
+        >
+      </mat-chip-list>
+    </div>
+
+    <div class="col-sm-12" *ngIf="showDashboardItems">
+      <router-outlet></router-outlet>
+    </div>
+  </div>
+</div> -->
+
+<div class="dashboard-container">
+  <lib-dhis2-dashboard></lib-dhis2-dashboard>
+</div>

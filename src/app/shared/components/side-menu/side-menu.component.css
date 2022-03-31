@@ -1,0 +1,9 @@
+.report-link {
+    border-radius: 5px;
+    font-size: 14px;
+  }
+  
+  .active-report {
+    background-color: rgb(224, 224, 224);
+  }
+  

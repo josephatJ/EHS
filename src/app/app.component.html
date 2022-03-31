@@ -1,6 +1,16 @@
 <div class="application-container">
-  <ngx-dhis2-menu></ngx-dhis2-menu>
-  <div class="application-content">
-    <router-outlet></router-outlet>
+  <div>
+    <ngx-dhis2-menu></ngx-dhis2-menu>
+    <div class="container-fluid">
+      <div class="row" style="margin-top: 50px">
+        <div class="col-sm-2 toggled" id="wrapper">
+          <app-side-menu id="sidebar-wrapper"></app-side-menu>
+        </div>
+
+        <div class="col-sm-10">
+          <router-outlet></router-outlet>
+        </div>
+      </div>
+    </div>
   </div>
 </div>
