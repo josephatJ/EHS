@@ -23,12 +23,6 @@ export class AppComponent implements OnInit {
 
     // Set application title
     this.setTitle('EHS surveillance');
-
-    if (Fn) {
-      Fn.init({
-        baseUrl: '../../../',
-      });
-    }
   }
 
   public setTitle(newTitle: string) {
